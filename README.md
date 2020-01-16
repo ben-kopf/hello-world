@@ -1,2 +1,3 @@
 # hello-world
-yebo
+print('Hello World!')
+yes
